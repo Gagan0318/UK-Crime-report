@@ -27,7 +27,7 @@
 
 ---
 
-## Project Overview
+##Project Overview
 
 This project analyses relationships between ethnic population distribution, stop and search activity, and criminal justice outcomes (prosecutions and convictions) across different regions, time periods, age groups, and offence types in England and Wales. Three open government datasets from data.gov.uk are combined to draw cross-dataset inferences about the UK criminal justice system.
 
